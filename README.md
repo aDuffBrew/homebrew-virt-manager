@@ -4,6 +4,9 @@ homebrew-virt-manager
 A set of [homebrew][homebrew] formulae to install [`virt-manager`][virt-manager] and [`virt-viewer`][virt-viewer] on Mac OSX.
 
 Includes updated python package to solve error when installing on MacOS Monterey and Big Sur per Brandon B. Jozsa. 
+See https://cloudcult.dev/libvirt-management-from-macos/
+I've added no original content.
+
 
 ## Usage
 
